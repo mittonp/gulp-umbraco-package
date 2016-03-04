@@ -1,0 +1,32 @@
+{
+    "name": "gulp-umbraco-package",
+    "version": "0.0.1",
+    "description": "A gulp plugin to automate the creation of installable Umbraco packages from your files. Inspired by grunt-umbraco-package",
+    "license": "MIT",
+    "keywords": [
+        "gulpplugin",
+        "gulp",
+        "umbraco"
+    ],
+    "homepage": "https://github.com/mittonp/gulp-umbraco-package",
+    "bugs": "https://github.com/mittonp/gulp-umbraco-package/issues",
+    "author": {
+        "name": "Mitton Pienaar",
+        "email": "mitton@countable.co.za",
+        "url": "https://github.com/mittonp"
+    },
+    "main": "./index.js",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/mittonp/gulp-umbraco-package.git"
+    },
+    "scripts": {
+        
+    },
+    "dependencies": {
+
+    },
+    "devDependencies": {
+        "gulp": "*"
+    }
+}
